@@ -1,6 +1,5 @@
-## IDE tips
 
-### create new files without mouse
+### IntelliJ tip - create new files without mouse
 
 - ALT + 1 --> focus to project Window
 - ALT + INS --> create new file
