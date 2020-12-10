@@ -7,6 +7,8 @@
 
 ## Links
 
-[Groovy official Learn site](http://www.groovy-lang.org/learn.html)
-[Groovy basics in a few minutes](https://learnxinyminutes.com/docs/groovy/)
+- [Groovy official Learn site](http://www.groovy-lang.org/learn.html)
+- [Groovy basics in a few minutes](https://learnxinyminutes.com/docs/groovy/)
+- [Closures](http://www.groovy-lang.org/closures.html)
+
 
